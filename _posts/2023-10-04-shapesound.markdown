@@ -15,10 +15,10 @@ As part of my work, I used data collected by Sebastian to train a multi-class cl
 
 Ok, so the confusion matrix looks a little bit messy - but you'll understand my reasoning for being happy with these results after I've explained my thinking.
 
-<!-- ![confusion_matrix_qd](/assets/img/qd_heatmap.png) -->
-
 # The Data
 
 # The Network
 
 # The Results!
+
+<!-- ![confusion_matrix_qd](/assets/img/qd_heatmap.png) -->
