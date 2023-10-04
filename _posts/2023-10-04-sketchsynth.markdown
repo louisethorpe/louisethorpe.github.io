@@ -6,5 +6,3 @@ categories: projects
 ---
 
 ![confusion_matrix][/assets/img/ss_heatmap.png]
-
-<!-- ![confusion_matrix_2][\louisethorpe.github.io\images\ss_heatmap.png] -->
