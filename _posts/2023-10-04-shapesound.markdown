@@ -11,7 +11,7 @@ Back in 2022, I finished up my master's degree and completed my dissertation pro
 
 As part of my work, I used data collected by Sebastian to train a multi-class classifier to classify six categories of shapes to a corresponding sound descriptor and I was pretty happy with how the final results came out. Below is a confusion matrix showing the ground truth labelling against the predicted labelling. 
 
-![confusion_matrix_ss](/assets/img/ss_heatmap.png)
+![confusion_matrix_ss](/assets/img/ss/ss_heatmap.png)
 
 Ok, so the confusion matrix looks a little bit messy - but you'll understand my reasoning for being happy with these results after I've explained my thinking.
 
@@ -23,7 +23,7 @@ I selected six categories from the dataset that represented abstract shapes, the
 
 # The Network
 
-![terrible_network_diagram](/assets/img/classification_network.png)
+![terrible_network_diagram](/assets/img/ss/classification_network.png)
 
 # The Results!
 
