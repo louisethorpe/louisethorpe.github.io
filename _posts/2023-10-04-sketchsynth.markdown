@@ -7,4 +7,4 @@ categories: projects
 
 Confusion matrix
 
-<!-- ![confusion_matrix][{{ site.baseurl }}/assets/img/ss_heatmap.png] -->
+![confusion_matrix][/assets/img/ss_heatmap.png]
