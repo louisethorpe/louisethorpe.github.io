@@ -21,7 +21,7 @@
 title: Louise Thorpe
 email: lou.thorpe.98@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A cool human with a master's degree writing things down that maybe someone will check out.
+  A cool human with a master's degree writing things down
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
