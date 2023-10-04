@@ -17,11 +17,13 @@ Ok, so the confusion matrix looks a little bit messy - but you'll understand my 
 
 # The Data
 
-As I was using data collected from a small study, there wasn't much of it. BUT luckily, the sketches collected were stored in the same format of those in the [Quick, Draw!](https://github.com/googlecreativelab/quickdraw-dataset) dataset by Google meaning I could make use of the machine learning technique transfer learning.
+As I was using data collected from a small study, there wasn't much of it. BUT luckily, the sketches collected were stored in the same format of those in the [Quick, Draw!](https://github.com/googlecreativelab/quickdraw-dataset) dataset by Google - so I could make use of the machine learning technique transfer learning.
 
-I selected six categories from the dataset that represented abstract shapes, these ended up being: *circle, line, square, sqiggle, tornado and zig-zag*. These categories had a lot more samples that the Sketching Sounds dataset (2500 per category vs 62 per catgeory) and could be used to pretrain the classification network. After this round of training, part of the network was frozen and the smaller data was run through and classified. To aid the network training, data augmentation was applied via a random scaling of sketches for both datasets.
+I selected six categories from the dataset that represented abstract shapes, these ended up being: *circle, line, square, sqiggle, tornado and zig-zag*. These categories had a lot more samples that the Sketching Sounds dataset (2500 per category vs 62 per catgeory) and could be used to pretrain the classification network. After this round of training, part of the network was frozen and the smaller training dataset was run through. To help a little bit, data augmentation was applied via a random scaling of sketches for both datasets.
 
 # The Network
+
+![terrible_network_diagram](/assets/img/classification_network.png)
 
 # The Results!
 
