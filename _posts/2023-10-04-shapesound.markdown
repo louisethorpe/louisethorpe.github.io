@@ -5,7 +5,7 @@ date:   2023-10-04 09:31:00 +0100
 categories: projects
 ---
 
-**Intro**
+# Introduction
 
 Back in 2022, I finished up my master's degree and completed my dissertation project looking at the relationship between shape and sound. This was a side project to larger work being undertaken by Sebastian Löbbers - you can find his research [here](https://sebastianlobbers.com/). 
 
@@ -17,4 +17,8 @@ Ok, so the confusion matrix looks a little bit messy - but you'll understand my 
 
 <!-- ![confusion_matrix_qd](/assets/img/qd_heatmap.png) -->
 
-**The Data**
+# The Data
+
+# The Network
+
+# The Results!

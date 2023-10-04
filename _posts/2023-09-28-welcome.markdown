@@ -5,4 +5,6 @@ date:   2023-09-28 14:46:00 +0100
 categories: post test
 ---
 
-Look at this beautiful first post
+Hello! Here's a bit of an intro to my blog!
+
+I realised recently that I've done and I'm doing some cool things in life and I've decided to note them down here. I haven't quite decided if the blog with be only work focused or if I'll also add things from my personal life such as my climbing adventures or cycling trips. But here we go - stay tuned for more!
