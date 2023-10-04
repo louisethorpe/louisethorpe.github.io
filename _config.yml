@@ -34,8 +34,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-social:
-  linkedin: https://www.linkedin.com/in/louise-thorpe-304805151/
+# social:
+#   linkedin: https://www.linkedin.com/in/louise-thorpe-304805151/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
