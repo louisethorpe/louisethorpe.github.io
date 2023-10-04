@@ -17,6 +17,8 @@ Ok, so the confusion matrix looks a little bit messy - but you'll understand my 
 
 # The Data
 
+As I was using data collected from a small study, there wasn't much of it. BUT luckily, the sketches collected were stored in the same format of those in the [Quick, Draw!](https://github.com/googlecreativelab/quickdraw-dataset) dataset by Google meaning I could make use of the machine learning technique transfer learning.
+
 # The Network
 
 # The Results!
