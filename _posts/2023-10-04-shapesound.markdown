@@ -11,6 +11,7 @@ As part of my work, I used data collected by Sebastian to train a multi-class cl
 
 ![confusion_matrix_ss](/assets/img/ss_heatmap.png)
 
+Ok, so the confusion matrix looks a little bit messy - but you'll understand my reasoning for being happy with these results after I've explained my thinking.
 
 <!-- ![confusion_matrix_qd](/assets/img/qd_heatmap.png) -->
 
