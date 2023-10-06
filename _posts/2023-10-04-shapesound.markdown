@@ -27,7 +27,7 @@ The smaller dataset also consisted of six categories, but the labels were a bit 
 
 # The Network
 
-The network is comprised of an LSTM-based encoder followed by two dense layers to a six-way classification output. The inspiration for the network architecture came from [Sketch-RNN](https://github.com/magenta/magenta/tree/main/magenta/models/sketch_rnn) which similarly uses a bidirection LSTM encoder and decoder model. Since I was not looking to generate new images, I scrapped the decoder and instead followed a usual classification structure after the encoder using softmax at the end. I've provided a lame diagram of the complete network below to help understand.
+The network is comprised of an LSTM-based encoder followed by two dense layers to a six-way classification output. The inspiration for the network architecture came from [Sketch-RNN](https://github.com/magenta/magenta/tree/main/magenta/models/sketch_rnn) which, similarly, uses a bidirection LSTM encoder, but also has a decoder to generate new sketches. Since I was not looking to generate images, I scrapped the decoder and instead followed a usual classification structure after the encoder using softmax at the end. I've provided a lame diagram of the complete network below for some understanding, but also to keep this post looking nice.
 
 ![terrible_network_diagram](/assets/img/ss/classification_network.png)
 
