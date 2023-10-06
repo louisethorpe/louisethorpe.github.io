@@ -33,4 +33,6 @@ The network is comprised of an LSTM-based encoder followed by two dense layers t
 
 # The Results!
 
-<!-- ![confusion_matrix_qd](/assets/img/qd_heatmap.png) -->
+Ok, so now I can explain why I'm happy with the messy confusion matrix at the top of the page.
+
+![both_results](/assets/img/ss/both_confmat.png)
