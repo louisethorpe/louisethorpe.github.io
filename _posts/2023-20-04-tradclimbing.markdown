@@ -15,4 +15,4 @@ We went up to Stanage in the Peak District for a couple days. The first day was 
 
 I've been back to Stanage a couple times with the same friend since then and tried a few more things. He's since climbed some severe routes and I've followed him up, I'm keen to get back and try lead these now I know how they climbs. 
 
-More Trad climbing to come!
+**More Trad climbing to come!**
