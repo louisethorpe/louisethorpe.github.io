@@ -35,7 +35,7 @@ The network is comprised of an LSTM-based encoder followed by two dense layers t
 
 Ok, so now I can explain why I'm happy with the messy confusion matrix at the top of the page. The Sketching Sounds dataset is fairly abstract and in this project I was looking to explore whether or not there was consistency between the shapes and sounds descriptors. Also, there wasn't too much data to work with, so training the network to generalise was tricky at times. Saying that though, four of the six categories had a classification accuracy of 67% or above, one had 58% and the final category was a bit all over the place. So, five out of six categories performing above chance is nice to see! However, it would've been good to have some more data as the final test set only had 12 sketches per category... hmm. 
 
-It terms of how well the network was trained, I've provided the confusion matrix for classification on the Quick, Draw! trained network alongside the confusion matrix for the Sketching Sounds trained network. Pre-training on the larger dataset helped speed things up and also helped increase the final output accuracy. 
+It terms of how well the network was trained, I've provided the confusion matrix for classification on the Quick, Draw! trained network alongside the confusion matrix for the Sketching Sounds trained network. Pre-training on the larger dataset helped speed things up and also helped increase the final output accuracy. The network associated with the Quick, Draw! dataset is on the left and the Sketching Sounds one on the right.
 
 ![both_results](/assets/img/ss/both_confmat.png)
 
