@@ -23,7 +23,7 @@ As I was using data collected from a small study, there wasn't much of it. BUT l
 
 I selected six categories from the dataset that represented abstract shapes, these ended up being: *circle, line, square, squiggle, tornado and zig-zag*. These categories had a lot more samples that the Sketching Sounds dataset (2500 per category vs 62 per catgeory) and could be used to pretrain the classification network. After this round of training, part of the network was frozen and the smaller training dataset was run through. To help a little bit, data augmentation was applied via a random scaling of sketches for both datasets.
 
-The smaller dataset also consisted of six categories, but the labels were a bit more abstract. The six categories were *thick, thin, rough, noisy, clean and calm*. During the data collection, participants were asked to draw shapes they associated with these descriptors and so we have an abstract shape-sound dataset!
+The smaller dataset also consisted of six categories, but the labels were a bit more abstract. The six categories were *thick, thin, rough, noisy, clean and calm*. During the data collection, participants were asked to draw shapes they associated with these descriptors and so, we have an abstract shape-sound dataset!
 
 # The Network
 
