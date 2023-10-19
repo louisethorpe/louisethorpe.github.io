@@ -12,3 +12,5 @@ Hello! I'm Louise, a recently graduated master's student from Queen Mary Univers
 If you'd like to talk to me about any of my work or interests - then drop me an email to lou.thorpe.98@gmail.com
 
 Thanks!
+
+![about_pics](/assets/img/blog_pics/about_collage.png)
