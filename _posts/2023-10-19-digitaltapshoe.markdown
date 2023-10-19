@@ -10,3 +10,5 @@ categories: projects
 A good project I worked on a couple years ago was my Electronic Tap Shoe. I have been an avid dancer from a young age so when I started learning how to process digital signals and add audio effects, I immediately thought about how I could combo up my dance and technical skills.
 
 I did some preliminary projects processing wavetable inputs to replicate a certain filters and trigger audio given certain sensor states to get familar with the Bela platform and figure out what sensors could work with the idea. I settled on using standard FSRs for triggering the audio and bought the cheapest pair of trainers from Sainsbury's that I could find.
+
+Note: this was also done during COVID lockdowns so a big shoutout to my dad for teaching me how to solder in my parents dining room.
