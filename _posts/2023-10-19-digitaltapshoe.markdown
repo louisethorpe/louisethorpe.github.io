@@ -15,3 +15,4 @@ I did some preliminary projects processing wavetable inputs to add audio filters
 
 **Note:** this project was done during COVID so a big shoutout to my dad for teaching me how to solder in my parents dining room.
 
+Blog post to be continued...
