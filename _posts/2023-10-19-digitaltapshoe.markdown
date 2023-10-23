@@ -7,7 +7,7 @@ categories: projects
 
 ![sin_waves](/assets/img/tap_shoe/sin_waves.png)
 
-# A tap shoe, but make it electronic
+## A tap shoe, but make it electronic
 
 A good project I worked on a couple years ago was my Electronic Tap Shoe. I have been an avid dancer from a young age so when I started learning how to process digital signals and add audio effects, I immediately thought about how I could combo up my dance and technical skills.
 
@@ -21,7 +21,7 @@ I ended up placing five sensors across the two shoes. One on each toe, one on ea
 
 Ok, so all the sensors are in place. Up next: **audio!**
 
-# The Audio Part
+## The Audio Part
 
 *All the code for the audio generation, filters and effects were all coded by me using the Bela platform and written in C++.*
 
@@ -31,8 +31,8 @@ To create the tones, we start with a wavetable input and users choice of wave fr
 
 I offered a few filtering/effect options to add on top of the tones as well. The first was a simple low pass filter, the second was distortion and the last was reverb. The low pass filter was straight forward and allowed for change for the envelope, filter sensitivity and resonance.
 
-## Distortion
+# Distortion
 
-## Reverb
+# Reverb
 
-# Not a bug, but a feature
+## Not a bug, but a feature
