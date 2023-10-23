@@ -15,4 +15,6 @@ I did some preliminary projects processing wavetable inputs to add audio filters
 
 **Note:** this project was done during COVID so a big shoutout to my dad for teaching me how to solder in my parents dining room.
 
-Blog post to be continued...
+I ended up placing five sensors across the two shoes. One on each toe, one on each heel and one on the ball of the right foot (see picture below). I left the left without a corresponding sensor on the bottom of the shoe so that I could stand comfortably without triggering any sound. 
+
+![sensors](/assets/img/tap_shoe/lousPic1.png)
