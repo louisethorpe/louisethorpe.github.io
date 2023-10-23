@@ -21,3 +21,6 @@ I ended up placing five sensors across the two shoes. One on each toe, one on ea
 
 Ok, so all the sensors are in place. Up next: **audio!**
 
+# The Audio Part
+
+For the audio output, I decided I wanted two different modes: drums and tones. For the drums, each sensor would trigger a different drum sound - kick, snare, toms and hithat. Each of these were synthesised from scratch using a simple wave and/or noise input with an altered envelope and varying filters to replicate the desired sound. For exmaple, for the hithat, I generated some white noise, made the envelope sharp and quick and then ran the sound through a high pass filter that I had also coded up in C++. Sweet, that's a quick explanation of the drums. I sped through this section because the tones are where the audio gets cool and a bit more experimentative. 
