@@ -31,6 +31,8 @@ To create the tones, we start with a wavetable input and users choice of wave fr
 
 I offered a few filtering/effect options to add on top of the tones as well. The first was a simple low pass filter, the second was distortion and the last was reverb. The low pass filter was straight forward and allowed for change for the envelope, filter sensitivity and resonance.
 
+Blog post to be continued...
+
 # Distortion
 
 # Reverb
