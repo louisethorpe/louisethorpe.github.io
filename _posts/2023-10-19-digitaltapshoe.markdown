@@ -23,4 +23,16 @@ Ok, so all the sensors are in place. Up next: **audio!**
 
 # The Audio Part
 
-For the audio output, I decided I wanted two different modes: drums and tones. For the drums, each sensor would trigger a different drum sound - kick, snare, toms and hithat. Each of these were synthesised from scratch using a simple wave and/or noise input with an altered envelope and varying filters to replicate the desired sound. For exmaple, for the hithat, I generated some white noise, made the envelope sharp and quick and then ran the sound through a high pass filter that I had also coded up in C++. Sweet, that's a quick explanation of the drums. I sped through this section because the tones are where the audio gets cool and a bit more experimentative. 
+*All the code for the audio generation, filters and effects were all coded by me using the Bela platform and written in C++.*
+
+For the audio output, I decided I wanted two different modes: drums and tones. For the drums, each sensor would trigger a different drum sound - kick, snare, toms and hithat. Each of these were synthesised from scratch using a simple wave and/or noise input with an altered envelope and varying filters to replicate the desired sound. For exmaple, for the hithat, I generated some white noise, made the envelope sharp and quick and then ran the sound through a high pass filter. Sweet, that's a quick explanation of the drums. I sped through this section because the tones are where the audio gets cool and a bit more experimentative. 
+
+To create the tones, we start with a wavetable input and users choice of wave from sawtooth and sine wave. Switching between the tones and adding any audio effects could be done using Bela's default GUI. (I did try to make my own interface, it looked nice, but ultimately I was trying to re-invent the wheel and just went back to the default choice). In the GUI, the tone's attack, delay and release envelope parameters were all changeable - sustain had to remain at zero however to prevent the tone continuing on indefinitely. 
+
+I offered a few filtering/effect options to add on top of the tones as well. The first was a simple low pass filter, the second was distortion and the last was reverb. The low pass filter was straight forward and allowed for change for the envelope, filter sensitivity and resonance.
+
+## Distortion
+
+## Reverb
+
+# Not a bug, but a feature
