@@ -31,10 +31,15 @@ To create the tones, we start with a wavetable input and users choice of wave fr
 
 I offered a few filtering/effect options to add on top of the tones as well. The first was a simple low pass filter, the second was distortion and the last was reverb. The low pass filter was straight forward and allowed for change for the envelope, filter sensitivity and resonance.
 
-Blog post to be continued...
-
 # Distortion
+
+With the basic sound generation in place, I looked at adding some extra effects. The first and most straightforward (in my opinion) of these was distortion. I implemented three different distortion effects because I had the time and I felt like giving myself more work. These ended up being hard clipping, exponential soft clipping and full wave rectifier distortions which are defined by:
+
+$$ x = 1 $$
 
 # Reverb
 
 ## Not a bug, but a feature
+
+
+Blog post to be continued...
