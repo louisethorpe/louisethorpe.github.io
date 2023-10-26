@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Part Time Things at Yonder"
+date:   2023-10-26 17:21:00 +0100
+categories: life
+---
+
+Amongst many of my technical projects, I've als been working part time at Yonder Climbing Centre for two years. This started as a side thing while I was working on my master's degree, but the pace and people quickly became part of my everyday life. 
+
+Blog post to be continued...
