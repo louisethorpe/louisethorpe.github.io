@@ -35,14 +35,15 @@ I offered a few filtering/effect options to add on top of the tones as well. The
 
 With the basic sound generation in place, I looked at adding some extra effects. The first and most straightforward (in my opinion) of these was distortion. I implemented three different distortion effects because I had the time and I felt like giving myself more work. These ended up being hard clipping, exponential soft clipping and full wave rectifier distortions which are defined by:
 
-(Maths equations to follow - I'm struggling to make these look pretty on the blog).
+![distortion](/assets/img/tap_shoe/distortion.png)
 
+(I don't love the graphic above - so please biew it as a place holder until a make a better one).
 
 # Reverb
 
 
 
-(Once again, maths equations to follow).
+(Maths equations to follow).
 
 ## Not a bug, but a feature
 
