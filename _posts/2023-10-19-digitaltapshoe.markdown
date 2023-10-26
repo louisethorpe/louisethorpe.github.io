@@ -42,7 +42,7 @@ With the basic sound generation in place, I looked at adding some extra effects.
 
 
 
-(Once again, matsh equations to follow).
+(Once again, maths equations to follow).
 
 ## Not a bug, but a feature
 
