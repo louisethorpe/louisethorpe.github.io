@@ -37,7 +37,7 @@ With the basic sound generation in place, I looked at adding some extra effects.
 
 ![distortion](/assets/img/tap_shoe/distortion.png)
 
-(I don't love the graphic above - so please biew it as a place holder until a make a better one).
+(I don't love the graphic above - so please view it as a place holder until a make a better one).
 
 # Reverb
 
