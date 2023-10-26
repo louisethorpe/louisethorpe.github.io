@@ -35,11 +35,12 @@ I offered a few filtering/effect options to add on top of the tones as well. The
 
 With the basic sound generation in place, I looked at adding some extra effects. The first and most straightforward (in my opinion) of these was distortion. I implemented three different distortion effects because I had the time and I felt like giving myself more work. These ended up being hard clipping, exponential soft clipping and full wave rectifier distortions which are defined by:
 
-$ x = 1 $
+$$ 
+\begin{equation}
+    x= 1 
+\end{equation}
+$$
 
-$$ x= 1 $$
-
-$$\[x = 1 \] $$
 
 # Reverb
 
