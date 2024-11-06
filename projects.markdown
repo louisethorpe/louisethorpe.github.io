@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Technical Projects
 permalink: /projects/
 ---
 
