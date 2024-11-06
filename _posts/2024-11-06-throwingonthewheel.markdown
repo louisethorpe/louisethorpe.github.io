@@ -6,3 +6,4 @@ categories: Ceramics
 ---
 
 Most of what I teach is how to throw ceramic pieces on the wheel. It's my favourite ceramics process. 
+
