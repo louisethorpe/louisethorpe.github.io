@@ -37,7 +37,7 @@ With the basic sound generation in place, I looked at adding some extra effects.
 
 ![distortion](/assets/img/tap_shoe/distortion.png)
 
-(I don't love the graphic above - so please view it as a place holder until a make a better one).
+These effects could be implemented using a simple slider on the GUI by taking on values on 0, 1 or 2 - 0 being no distortion, 1 being exponential softclipping and then 2 being the full wave recifier. The selected value would then trigger some conditional statements to run the audio samples through the respective equation and output the distorted (or undistorted) sample.
 
 # Reverb
 
